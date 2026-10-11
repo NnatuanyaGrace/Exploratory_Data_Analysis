@@ -1,4 +1,4 @@
-# Exploratory_Data_Analysis
+# Task-2-Exploratory_Data_Analysis
 *Exploratory Data Analysis(EDA) using Excel — descriptive statistics, product performance, sales trends, and outlier analysis.*
 
 ## Project Overview
